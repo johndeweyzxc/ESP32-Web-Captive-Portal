@@ -32,11 +32,7 @@ The ESP32 Captive Portal uses DNS hijacking to trigger a pop-up web page on the 
 
 ## Demo of Captive Portal
 
-<div align="center">
-    <video width="720" height="640" controls>
-        <source src="visuals/Demo.mp4" type="video/mp4">
-    </video>
-<div>
+https://github.com/johndeweyzxc/ESP32-Web-Captive-Portal/assets/107840996/86c5d05a-add7-45b0-89fa-d4c006b45c1c
 
 ## Disclaimer
 
